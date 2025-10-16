@@ -75,7 +75,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                br.com.gerendiadordeassinaturas.gerenciadordeassinaturas/br.com.gerendiadordeassinaturas.gerenciadordeassinaturas.HelloApplication
+                                br.com.gerendiadordeassinaturas.gerenciadordeassinaturas/br.com.gerendiadordeassinaturas.gerenciadordeassinaturas.MainApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
